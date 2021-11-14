@@ -14,6 +14,8 @@ and Vega specifications to:
 -   compile to Vega
 -   create images (SVG, PNG)
 
+There’s nothing here yet, stay tuned…
+
 ## Installation
 
 You can install the development version of vegacompile from
