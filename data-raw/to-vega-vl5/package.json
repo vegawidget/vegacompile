@@ -1,12 +1,12 @@
 {
-  "name": "vegacompile",
+  "name": "to-vega-vl5",
   "version": "0.0.0.9000",
-  "description": "node project to compile Vega and Vega-Lite specs",
+  "description": "Compile Vega-Lite specs to Vega using V8",
   "main": "index.js",
   "author": "Ian Lyttle",
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "vega-lite": "^5.1.1"
+    "vega-lite": "^5.2.0"
   }
 }
