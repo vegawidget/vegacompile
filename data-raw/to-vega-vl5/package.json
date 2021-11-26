@@ -8,5 +8,14 @@
   "private": false,
   "dependencies": {
     "vega-lite": "^5.2.0"
+  },
+  "scripts": {
+    "build": "yarn build:only",
+    "build:only": "tsc -p tsconfig.json"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.4.0",
+    "@typescript-eslint/parser": "^5.4.0",
+    "typescript": "^4.5.2"
   }
 }
